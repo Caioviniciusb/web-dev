@@ -1,5 +1,5 @@
-# Curso em Video - Aula 1 (Primeiro Codigo)
-## This file contains all the knowledge of things I'm learning while watching the course
+# Curso em Video - Aula 1 (Primeiro Código)
+## This file contains comments of the knowledge I'm obtaining while watching the course.
 
 * Type "!" to automatically create structure of code
 * Every html has head (page configuration) and body (page content)
