@@ -1,4 +1,4 @@
-# Curso em Video - Aula 3 (Images e Favicons)
+# Curso em Video - Aula 3 (Images)
 
 * Not all images can be used because there exist copyright.
 * Ir no google imagens -> Ferramentas -> Marcadas para reutilização com modificação. (imagens que posso usar para fins lucrativos)
